@@ -1,0 +1,15 @@
+body {
+    font-family: sans-serif;
+    color: #ffffff;
+    background-color: #1c1c1b;
+    line-height: 1.13em;
+}
+
+a {
+    color: sandybrown;
+    text-decoration: none;
+}
+
+h1 {
+    font-size: 64px;
+}
